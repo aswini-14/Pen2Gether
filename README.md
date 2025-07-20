@@ -1,4 +1,4 @@
-# 📝Pen2Gether
+<img width="1301" height="729" alt="image" src="https://github.com/user-attachments/assets/d5678a6d-cd8f-4055-8662-c7e1bfd84f07" /># 📝Pen2Gether
 
 A real-time collaborative note-taking application where users can create, edit, share, and collaborate on notes. Built with **Node.js**, **Express.js**, **MongoDB**, and **Socket.IO**, this app supports live editing.
 
@@ -58,6 +58,11 @@ VITE_APP_SOCKET_URL=<socker-url>
 BACKEND_URL=<backend-url>
 SOCKET_URL=<frontend-url>
 ```
+
+
+### 📽️ Working demo
+[<img width="1301" height="729" alt="Screenshot 2025-07-20 090911" src="https://github.com/user-attachments/assets/3f225020-294e-486a-89ad-7bfa1c4afa21" />
+](https://drive.google.com/file/d/1G8hjYD89zRbahk4__-tix-CtkcukpEAg/view?usp=sharing)
 
 ## 🧑‍💻 Contributors
 - [Amruta Jayanti](https://www.linkedin.com/in/amruta-jayanti)
